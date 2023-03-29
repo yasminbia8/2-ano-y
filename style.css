@@ -23,7 +23,31 @@ body {
 	padding: 10px;
 }
 
+#empresa de modelo {
+	background: #E6E6FA;
+        padding: 10px;
 }
+
+#{imagrm,revista,marca {
+	background: #D8BFD8;
+	padding: 10px;
+}		
+	
+#desfile fotografia {
+	background: #EE82EE	;
+	padding: 10px;
+}	
+	
+#marca de produtos {
+	background: #9932CC;
+	padding: 10px;
+}
+#passarela {
+	background: #663399;
+	padding: 10px;
+}
+
+
 #rodape {
 	text-align: center;
 	color: #FFFFFF;
