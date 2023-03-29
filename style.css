@@ -13,13 +13,13 @@ body {
 }
 
 #menu {/*Formatação do menu*/
-	background: #c5c5c5b2;
+	background: #9400D3;
 	/*border: 1px solid red; Borda sólida na div*/
 	padding: 18px; display: flex /*Espaçamento interna div*/
 }
 
 #conteudo {
-	background: #c5c5b2;
+	background: #E6E6FA;
 	padding: 10px;
 }
 
